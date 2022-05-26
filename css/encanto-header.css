@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "arima";
+    src: url("../fonts/arima/ArimaMadurai-Medium.ttf");
+}
+
+@font-face {
+    font-family: "arima-bold";
+    src: url("../fonts/arima/ArimaMadurai-Bold.ttf");
+}
+
+.font-arima{
+    font-family: "arima";
+    text-decoration: none
+}
+
+a.font-arima{
+    color: white;
+}
+
+h2.font-arima-bold{
+    color: #e81378;
+}
+
+.font-arima-bold{
+    font-family: "arima-bold";
+    text-decoration: none
+}
+
+h1.font-arima{
+    color:white;
+}
+
+p.font-arima{
+    color:white;
+    font-size: 200%;
+}
+
+p.font-arima-bold{
+    font-size: 125%;
+}
+
+a.font-arima{
+    color: white;
+    font-size: 175%;
+}
+
+input.font-arima-bold{
+    color:#e81378;
+    font-size: 110%;
+}
+
+a.font-arima-bold{
+    color: #e81378;
+    font-size: 200%;
+}
+
+
+/*-----------font------------*/
+
+
+#header{
+    display: flex;
+    justify-content: space-between;
+    background: #e81378;
+    margin: 20px 60px 20px 60px;
+    align-items: center;
+}
+
+.icon{
+    text-decoration: none;
+}
+
+#div-home{
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 0 10px;
+}
+
+#div-input{
+    margin: 0 30px 0 0;
+}
+
+button.background{
+    height: 32px;
+    border: 0;
+}
+
+/*-----------header--------------*/

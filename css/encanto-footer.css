@@ -1,0 +1,11 @@
+
+#footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #e81378;
+    margin: 20px 60px 20px 60px;
+    height: 100px;
+}
+
+/*---------footer--------------*/

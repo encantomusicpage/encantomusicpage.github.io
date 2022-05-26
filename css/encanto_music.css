@@ -1,0 +1,32 @@
+
+.div-main{
+    display: flex;
+    margin: 20px 60px 20px 60px;
+}
+/*------main--------------------*/
+
+.hr{
+    margin: 20px 60px 20px 60px;
+}
+
+.background{
+    background: white;
+}
+
+.margin{
+    margin: 40px 0px 40px 300px;
+}
+
+/*------------------------------*/
+
+.img{
+    width: 400px;
+    height: 400px;
+}
+
+/*----------image--------------*/
+
+.span{
+    display: flex;
+    flex-direction: column;
+}
